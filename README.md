@@ -1,6 +1,6 @@
 # SIMPLIFIED API
 
-This is the backend for my Simplified App. The simplified app is an all-in-one app meant to simplify the process of getting yourself organized. The app features a budgeting tool, to-do list, daily journal, OpenWeather API and more...
+This is the backend for my Simplified App. The Simplified app is an all-in-one app meant to simplify the process of getting yourself organized. The app features a budgeting tool, to-do list, daily journal, OpenWeather API and more...
 
 ## TECHNOLOGIES USED:
 
@@ -11,9 +11,9 @@ This is the backend for my Simplified App. The simplified app is an all-in-one a
 - mongoose
 - morgan
 
-## VIEW LIVE:
+## VISIT SITE:
 
-- Heroku link will go here once deployed 
+- Live link will go here once deployed 
 
 ## FUTURE ENHANCEMENTS:
 
