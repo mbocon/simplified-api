@@ -1,20 +1,20 @@
-# MERN-STARTER-WITH-AUTH-API
+# SIMPLIFIED API
 
-This is the backend REPO for MERN-STARTER-WITH-AUTH.  
+This is the backend for my Simplified App. The simplified app is an all-in-one app meant to simplify the process of getting yourself organized. The app features a budgeting tool, to-do list, daily journal, OpenWeather API and more...
 
-## Installation
+## TECHNOLOGIES USED:
 
-Simply clone this repo to get started.
+- bcrypt
+- cors
+- express
+- JWT
+- mongoose
+- morgan
 
-## Usage
+## VIEW LIVE:
 
-Once you've cloned this repo, you need to create a .env file at the root level. Inside your .env file you will need to add the following:
+- Heroku link will go here once deployed 
 
-```javascript
-DATABASE_URL=yourMongoDBConnectionString
-SECRET=yourSecret
-```
+## FUTURE ENHANCEMENTS:
 
-Then in the terminal run the command npm i to install the dependencies
-
-You'll need to also clone [this](https://github.com/mbocon/MERN-STARTER-WITH-AUTH-CLIENT.git) React frontend codebase. 
+- TBD
